@@ -1,0 +1,29 @@
+{
+  "slug": "SID6581",
+  "name": "SID6581",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "SID6581",
+  "author": "SID6581",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "SID6581",
+      "name": "SID6581",
+      "description": "Four-voice VCO built on a cycle-accurate MOS 6581 SID emulation (reSID). Each voice is a full SID chip with its own filter, playing one of 64 factory patches.",
+      "tags": [
+        "Oscillator",
+        "Synth voice",
+        "Filter",
+        "Hardware clone",
+        "Polyphonic"
+      ]
+    }
+  ]
+}
